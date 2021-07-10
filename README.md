@@ -4,6 +4,7 @@ Final Year B.tech Project on Machine Learning Stock Prediction through Deep Lear
 # Stock-Price-Prediction
 Top Class Stock Price Prediction Project through Machine Learning Algorithms for Google. Easy Understanding and Implementation.
 
+## Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
 Stock Price Prediction 
 Stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares." 
 A stock is a general term used to describe the ownership certificates of any company.
