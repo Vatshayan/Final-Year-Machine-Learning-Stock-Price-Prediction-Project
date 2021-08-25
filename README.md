@@ -66,3 +66,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 💬 Gmail: **vatshayan007@gmail.com**
 
 Other Final Year Project: https://github.com/Vatshayan/Final-Year-Project-Cryptographic-Technique-for-Communication-System
+
+### CSE Projects: [LINK](https://www.cse-projects.com)
+
