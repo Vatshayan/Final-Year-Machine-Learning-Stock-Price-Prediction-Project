@@ -33,13 +33,15 @@ Preprocessing the Data
 Predicting the Output
 Result visualization 
  
-Research Paper:
-Project is totally based on research papers as project predict output using LSTM based deep learning models
-https://arxiv.org/abs/2009.10819
+### Research Paper
 
-https://www.aclweb.org/anthology/W19-6403.pdf
+Project is totally based on research papers as project predict output using LSTM based deep learning models:
 
-https://www.sciencedirect.com/science/article/pii/S1877050920304865
+1. https://arxiv.org/abs/2009.10819
+
+2. https://www.aclweb.org/anthology/W19-6403.pdf
+
+3. https://www.sciencedirect.com/science/article/pii/S1877050920304865
 
 
 
@@ -52,20 +54,13 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
 💌 Feel free to contact me for any kind of help on projects.
-
-### WANT RESEARCH PAPER
- Email me at **vatshayan007@gmail.com** to get PDF of Research paper.
  
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
-
 ### 📫 HOW TO REACH ME 
 
 💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-Other Final Year Project: https://github.com/Vatshayan/Final-Year-Project-Cryptographic-Technique-for-Communication-System
+**Website: [LINK](https://www.cse-projects.com)**
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
-
+**Computer Science Projects: [LINK](https://computerscienceproject.com/)**
